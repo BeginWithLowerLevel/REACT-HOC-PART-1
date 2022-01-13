@@ -6,3 +6,4 @@ Concretely, a higher-order component is a function that takes a component and re
 
 - const EnhancedComponent = higherOrderComponent(WrappedComponent);
 
+![1_cYo6rO6ecthVZwmZvKFgww](https://user-images.githubusercontent.com/86103554/149324470-1cf87e02-acab-4cf5-9511-8315b3cc28f5.png)
